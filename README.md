@@ -1,4 +1,4 @@
-# password-checked
+# password-checker
 
 #This is a simple program to tell you, your password being used by howmany computers who had security breached before
 
